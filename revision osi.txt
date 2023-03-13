@@ -1,0 +1,31 @@
+hub = couche 1
+switch = couche 2 (table arp)
+switch (de niveau 3) = couche 3 fonction routage
+firewall = couche 3, couche 4 (vpn nomade et site à site), couche 7 (interaction avec l'utilisateur)
+configurer un firewall avec une interface graphique
+
+
+adresses privés ne peuvent pas être router
+règles de nat:
+bridge on recupère l'adresse physique
+nat traduit pour aller sur internet
+
+DMZ: reseau isoler du reseau local, il ne doit pas etre racorder directement 
+a internet (elle ne doit pas envoyer vers internet)
+
+source vers la destination avec quelle nat
+
+règles de filtrage avec le nat (qui peux aller ou)
+
+
+couche osi 
+
+routeur couche 3 
+
+couche 2 adresse mac
+
+couche 3 adresse ip
+couche 4 tcp/udp tcp mode connecter (telechargement) udp mode non connecter (streaming) (telephonie)
+couche 5 
+
+
