@@ -1,0 +1,4 @@
+une instruction = opération elementaire que le processeur peut accomplir 
+les intructions sont stocker dans le mémoire principale en vue d'etre traite par
+le processeur une instruction est composé de 2 champ.
+le code operande définit les paramametres de l'action dépendant de l'opération.

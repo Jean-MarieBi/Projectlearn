@@ -1,0 +1,78 @@
+carte mère = motherboard
+processeur = cpu
+stockage = storage
+ventirad = fan
+northbridge => chipset nord
+southbridge => chipset sud
+north bridge c'est la partie la plus importante (cpu, gpu, ram) 
+south bridge périphérique et bus (épaule north bridge)
+bus => les données sont regroupé (canaux logiques)
+slot pour intégrées de nouveau préripheriques
+• Loi de Gordon Moore (Cofondateur d’Intel)
+• Augmentation de la densité des composants :
+Le nombre de transistors sur une puce double tous les 18 mois.
+• Le coût d’une puce reste pratiquement constant.
+• L’augmentation de la densité des circuits s’accompagne:
+	> d’une augmentation de performance,
+	> d’une réduction de la consommation électrique,
+	> D’une augmentation de la fiabilité.
+BIOS = basic input output system
+MBR = master boot record
+POST = power on self test
+UEFI = unified extensible firmware interface (stocker dans une partie du disque dur)
+EEPROM = Electrical Erasable Programmable Read-Only Memory
+Mode legacy = mode héritage
+activer vtx pour la virtualisation 
+Abscisse = en bas x
+Ordonner = en haut y
+
+Windows (se ou os) est composé de 3 grand point:
+- interface utilisateur (user interface)
+- système de gestion de fichiers (File Management System)
+- le noyau (kernel)
+
+arboressence, place relatif ou absolu
+
+il n'est pas possible d'integrer un domaine dans un windows familial 
+windows pro permet de creer un domaine qui pourra administrer et chiffrer (bit locker).
+le disque dur, la virtualisation (hyperv).
+
+dxdiag permet de vérifier les informations de la machine
+commande ver pour voir la version du windows
+
+au moins 2 coeur 
+4 gigaram( min 2 gigaram)
+stockage ssd 256 go 
+8 go minimun
+
+pro-actif = mettre des solutions avant les soucis
+NTFS = pour les fichiers
+le disque logique et physique, pour vérifier passez par le gestionnaire de disque.
+
+Mdp standard P@$$w0rd pour les labs
+l'administrateur doit proposer un password crée par l'utilisateur
+
+commandes:
+- ipconfig et ipconfig /all
+- ping 
+DHCP = dynamic host configuration protocol
+configuration du nom de l'hôte.
+
+par défault un bail dure 8 heure en wifi et 8 jours en filaire.
+un serveur doit toujours avoir une adresse ip statique.
+
+pour supprimer une vm delete storage 
+psr pour enregistrer les etapes maximun 99 screenshoot)
+
+Dans la VM, win + R, ncpa.cpl pour ouvrir les options de la carte réseau
+
+net user = voir les utilisateurs
+net user Administrateur /active:yes
+net user Administrateur /active:no
+net user Adminstrateur azerty
+
+routeur virtuel 
+ipcop
+
+PAT: port adresse translation
+NAT : network adresse translation

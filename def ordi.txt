@@ -1,0 +1,1 @@
+tout dispositif qui a input et output est considérer comme un ordinateur

@@ -1,0 +1,65 @@
+pwd = dossier courant/repetoire où on est 
+ls = lister les fichiers/dossier
+cd = changer de repetoire
+cd ./.. = pour remonter 2 fois
+cd .. = pour remonter une fois
+clear = pour nettoyer la fenetre terminal
+mkdir *nom du dossier = créer un dossier
+touch *nom du fichier = créer un fichier
+nano exo2.txt = créer un fichier et ouvrir pour écrire
+cat *nom du fichier = voir le contenu du fichier
+ls -l = les droits des fichiers
+*(nom de la commande) --help = donne des informations sur les commandes
+find (début du terme rechercher "sensible à la casse")* -print
+grep "termes rechercher" nom du fichier où chercher = cherche dans le fichier le terme dans la ligne
+rm = supprimer un fichier
+rm -r = supprimer un dossier
+rmdir = supprimer un dossier aussi
+-zcvf = compresser
+mv source destination = deplace un fichier
+
+CDI = intégrité confidentialité disponibilité
+
+
+
+
+
+	nano
+crtl+x = pour sortir du fichier (y = pour enregistrer )
+
+
+	Git Hub
+git clone *lien copié
+git init
+git status
+git add *nom du fichier
+git commit -m "*message"
+git push
+
+
+	droit des fichiers 
+r : lecture
+w : ecriture
+x : executer
+
+user group others
+premier lettre défini le type ( d directory)
+
+x ----> 1
+w ----> 2
+r ----> 4
+
+- - -  0
+- - x  1
+- w -  2
+- w x  3
+r - -  4
+r - x  5
+r w -  6
+r w x  7
+
+commande pour changer les droits 
+chmod 777 nom
+
+ 
+

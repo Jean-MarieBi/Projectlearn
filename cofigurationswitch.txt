@@ -1,0 +1,4 @@
+1 etape creer VLAN
+2 etape mettre une @ pour le vlan creer
+3 etape configurer les ports
+ATTENTION LES VLAN DOIVENT ETRE CREER SUR LES SWITCH

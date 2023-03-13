@@ -1,0 +1,3 @@
+& concatainer
+print ("afficher chaine",variable)
+n= input("entrer une valeur, s'il vous plait :")
